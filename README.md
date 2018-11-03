@@ -5,7 +5,7 @@ A feature extraction method for two parents with the common children.
 
 JLDA is a model extended from LDA.
 
-It works better than LDA in the case of there are two factors that affects the word generation.
+It works better than LDA in the case of there are two factors that affects the word generation, since two factors are in the collaborative learning. When the view from one factor is sparse, the other view can introduce some auxiliary information to it.
 
 ------------------------------------------------------------------------
 
